@@ -107,11 +107,6 @@ Personalized Message:
 *Figure 2: Example of detailed lead information and outreach message**
 
 
-## Troubleshooting
-
-- If you encounter API rate limits, try reducing the limit parameter
-- Ensure all required API keys are correctly set in the config file
-- Check your internet connection if API calls are failing
 
 
 
