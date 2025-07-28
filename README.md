@@ -37,7 +37,7 @@ A powerful lead generation tool that helps you find and enrich company informati
    ```bash
    pip install -r requirements.txt
    ```
-   ```
+
 
 ## Usage
 
