@@ -99,12 +99,12 @@ Personalized Message:
 ## Example Outputs
 
 ### Search Results Output
-![Search Results Output](Chatbot-flow-builder\images\Screenshot (173).png)
+![Search Results Output](images/Screenshot%20(173).png)
 *Figure 1: Example of search results and company information*
 
 ### Detailed Lead Information
-![Detailed Lead Information](Chatbot-flow-builder\images\Screenshot (174).png)
-*Figure 2: Example of detailed lead information and outreach message*
+![Detailed Lead Information](images/Screenshot%20(174).png)
+*Figure 2: Example of detailed lead information and outreach message**
 
 
 ## Troubleshooting
