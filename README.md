@@ -99,11 +99,11 @@ Personalized Message:
 ## Example Outputs
 
 ### Search Results Output
-![Search Results Output](search_results_output.png)
+![Search Results Output](C:\Users\nevil\OneDrive\Pictures\Screenshots\Screenshot (173).png)
 *Figure 1: Example of search results and company information*
 
 ### Detailed Lead Information
-![Detailed Lead Information](lead_details_output.png)
+![Detailed Lead Information](C:\Users\nevil\OneDrive\Pictures\Screenshots\Screenshot (174).png)
 *Figure 2: Example of detailed lead information and outreach message*
 
 
